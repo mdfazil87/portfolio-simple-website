@@ -1,27 +1,27 @@
+
 # Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences in the world of web development. I've built this site using HTML and CSS, with a touch of creativity to make it visually appealing.
+Welcome to the repository for my personal portfolio website! This project is a showcase of my web development skills, featuring a clean and responsive design.
 
-## Features:
+## Home Page
 
-- **Responsive Design**: The website is designed to be accessible and user-friendly across various devices and screen sizes.
+The home page introduces visitors to my portfolio, providing a quick overview of who I am and what I do. It highlights key projects and skills, inviting users to explore further.
 
-- **Project Showcase**: Explore the projects I've worked on, complete with descriptions and links to their respective repositories or live demos.
+## Contact Page
 
-- **Skills and Technologies**: Discover the technologies and tools I'm proficient in. From front-end frameworks to back-end languages, this portfolio covers a wide range of skills.
-
-- **About Me**: Get to know me better through the 'About Me' section. Learn about my background, interests, and what drives me in the world of web development.
+The contact page is designed to facilitate communication. Whether you have inquiries, collaboration proposals, or just want to say hello, you'll find the necessary information to reach out to me.
 
 ## Technologies Used:
 
-- **HTML**: For structuring the content of the web pages.
-
-- **CSS**: To style and layout the elements, ensuring a visually appealing design.
+- **HTML**: Structure and content of the web pages.
+  
+- **CSS**: Styling for a visually appealing design.
 
 ## How to Use:
 
 1. Clone the repository to your local machine using `git clone`.
-2. Open the `index.html` file in your preferred web browser.
+2. Open the `index.html` file for the home page or `contact.html` for the contact page in your preferred web browser.
 
-Feel free to explore and provide any feedback or suggestions. I'm constantly updating and improving my portfolio to reflect my latest skills and projects.
+Feel free to explore, and don't hesitate to contact me through the provided channels on the contact page.
+
 
